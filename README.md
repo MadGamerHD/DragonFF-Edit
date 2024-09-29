@@ -1,0 +1,2 @@
+# DragonFF-Edit
+Allows for mass exporting dff files in blender for map making
